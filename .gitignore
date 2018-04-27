@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Paths
+.vs/
+MemoryMatching/x64/
+MemoryMatching/x86/
+MemoryMatching/Debug/
+MemoryMatching/Release/
+x64/
+x86/
+Debug/
+Release/
